@@ -10,8 +10,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MlUwKTaS9dMdWMl3iAtMd9Hdztq_pRbO/view?usp=sharing](https://drive.google.com/file/d/1MlUwKTaS9dMdWMl3iAtMd9Hdztq_pRbO/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="centre">Connect with me:</h3>
+<p align="centre">
 <a href="https://linkedin.com/in/sakshi-gupta-40a4381b4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sakshi-gupta-40a4381b4" height="30" width="40" /></a>
 <a href="https://instagram.com/sakshi._.guptaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sakshi._.guptaa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sakshi_codes0119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sakshi_codes0119" height="30" width="40" /></a>
