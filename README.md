@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **sakshi.codes0119@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MlUwKTaS9dMdWMl3iAtMd9Hdztq_pRbO/view?usp=sharing](https://drive.google.com/file/d/1MlUwKTaS9dMdWMl3iAtMd9Hdztq_pRbO/view?usp=sharing)
 
 <h3 align="centre">Connect with me:</h3>
 <p align="centre">
