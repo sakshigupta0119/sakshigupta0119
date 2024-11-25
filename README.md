@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshigupta0119&label=Profile%20views&color=0e75b6&style=flat" alt="sakshigupta0119" /> </p>
 
-- 🌱 I’m currently learning **Web Development and Machine Learning/Deep Learning**
+- 🌱 I’m currently learning **Machine Learning/Deep Learning** and working as a **Full stack developer**
 
 - 📫 How to reach me **sakshi.gupta0119@gmail.com**
 
