@@ -1,6 +1,6 @@
 ![](assets/header.gif)
 ### HI! 👋🏼
-<h4 align="center">A Final year, B.Tech Mechanical and Automation student at Indira Gandhi Delhi Technical University for Women. I am a responsible, creative and hardworking individual determined to work endlessly to achieve goals. A quick learner, who adapts, learns and unlearns constantly. With a keen interest in coding and programming, aiming to build a career in the field of Software Development and Data Science/Research.</h4>
+<h4 align="center">I am a B.Tech graduate in Mechanical and Automation Engineering from Indira Gandhi Delhi Technical University for Women. A responsible and creative individual, I am passionate about software development and data science, with a strong focus on innovative problem-solving and delivering high-quality, client-focused solutions.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshigupta0119&label=Profile%20views&color=0e75b6&style=flat" alt="sakshigupta0119" /> </p>
 
